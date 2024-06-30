@@ -1,6 +1,6 @@
-CREATE DATABASE signup_db;
+CREATE DATABASE sign_up;
 
-USE signup_db;
+USE sign_up;
 
 CREATE TABLE accounts (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
